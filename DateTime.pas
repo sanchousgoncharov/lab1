@@ -12,5 +12,5 @@ begin
   Println('Високосный год?',Vis);
   Minute := ReadInteger('Введите минуты');  
   Print('Кол-во секунд', Minute*60);
-  
+  Print('Вывод...')
 end.
